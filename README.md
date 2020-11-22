@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 11.5,
+	"ConfigVersion": 11.6,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
