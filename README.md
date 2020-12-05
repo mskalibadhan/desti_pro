@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 11.6,
+	"ConfigVersion": 11.7,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -520,306 +520,6 @@
 	"Servers": [
     {
 		"Name": "Server 1",
-		"ServerHost": "d1.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 2",
-		"ServerHost": "d2.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 3",
-		"ServerHost": "d3.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 4",
-		"ServerHost": "d4.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 5",
-		"ServerHost": "d5.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 6",
-		"ServerHost": "d6.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 7",
-		"ServerHost": "d7.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 8",
-		"ServerHost": "d8.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 9",
-		"ServerHost": "d9.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 10",
-		"ServerHost": "d10.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 11",
-		"ServerHost": "d11.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 12",
-		"ServerHost": "d12.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 13",
-		"ServerHost": "d13.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 14",
-		"ServerHost": "d14.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 15",
-		"ServerHost": "d15.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 16",
-		"ServerHost": "d16.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 17",
-		"ServerHost": "d17.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 18",
-		"ServerHost": "d18.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 19",
-		"ServerHost": "d19.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 20",
-		"ServerHost": "d20.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 21",
-		"ServerHost": "d21.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 22",
-		"ServerHost": "d22.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 23",
-		"ServerHost": "d23.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 24",
-		"ServerHost": "d24.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 25",
-		"ServerHost": "d25.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 26",
-		"ServerHost": "d26.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 27",
-		"ServerHost": "d27.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 28",
-		"ServerHost": "d28.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 29",
-		"ServerHost": "d29.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 30",
-		"ServerHost": "d30.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 31",
 		"ServerHost": "icr1.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -829,7 +529,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 32",
+		"Name": "Server 2",
 		"ServerHost": "icr2.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -839,7 +539,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 33",
+		"Name": "Server 3",
 		"ServerHost": "icr3.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -849,7 +549,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 34",
+		"Name": "Server 4",
 		"ServerHost": "icr4.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -859,7 +559,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 35",
+		"Name": "Server 5",
 		"ServerHost": "icr5.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -869,7 +569,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 36",
+		"Name": "Server 6",
 		"ServerHost": "icr6.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -889,7 +589,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 38",
+		"Name": "Server 8",
 		"ServerHost": "icr8.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -899,7 +599,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 39",
+		"Name": "Server 9",
 		"ServerHost": "icr9.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -909,7 +609,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 40",
+		"Name": "Server 10",
 		"ServerHost": "icr10.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -919,7 +619,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 41",
+		"Name": "Server 11",
 		"ServerHost": "icr11.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -929,7 +629,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 42",
+		"Name": "Server 12",
 		"ServerHost": "icr12.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -939,7 +639,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 43",
+		"Name": "Server 13",
 		"ServerHost": "icr13.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -949,7 +649,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 44",
+		"Name": "Server 14",
 		"ServerHost": "icr14.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -959,7 +659,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 45",
+		"Name": "Server 15",
 		"ServerHost": "icr15.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -969,7 +669,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 46",
+		"Name": "Server 16",
 		"ServerHost": "icr16.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -979,7 +679,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 47",
+		"Name": "Server 17",
 		"ServerHost": "icr17.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -989,7 +689,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 48",
+		"Name": "Server 18",
 		"ServerHost": "icr18.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -999,7 +699,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 49",
+		"Name": "Server 19",
 		"ServerHost": "icr19.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1009,7 +709,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 50",
+		"Name": "Server 20",
 		"ServerHost": "icr20.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1019,7 +719,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 51",
+		"Name": "Server 21",
 		"ServerHost": "icr21.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1029,7 +729,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 52",
+		"Name": "Server 22",
 		"ServerHost": "icr22.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1039,7 +739,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 53",
+		"Name": "Server 23",
 		"ServerHost": "icr23.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1049,7 +749,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 54",
+		"Name": "Server 24",
 		"ServerHost": "icr24.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1059,7 +759,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 55",
+		"Name": "Server 25",
 		"ServerHost": "icr25.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1069,7 +769,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 56",
+		"Name": "Server 26",
 		"ServerHost": "icr26.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1079,7 +779,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 57",
+		"Name": "Server 27",
 		"ServerHost": "icr27.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1089,7 +789,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 58",
+		"Name": "Server 28",
 		"ServerHost": "icr28.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1099,7 +799,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 59",
+		"Name": "Server 29",
 		"ServerHost": "icr29.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1109,7 +809,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 60",
+		"Name": "Server 30",
 		"ServerHost": "icr30.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1119,7 +819,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 61",
+		"Name": "Server 31",
 		"ServerHost": "icr31.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1129,7 +829,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 62",
+		"Name": "Server 32",
 		"ServerHost": "icr32.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1139,7 +839,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 63",
+		"Name": "Server 33",
 		"ServerHost": "icr33.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1149,7 +849,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 64",
+		"Name": "Server 34",
 		"ServerHost": "icr34.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1159,7 +859,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 65",
+		"Name": "Server 35",
 		"ServerHost": "icr35.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1169,7 +869,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 66",
+		"Name": "Server 36",
 		"ServerHost": "icr36.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1179,7 +879,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 67",
+		"Name": "Server 37",
 		"ServerHost": "icr37.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1189,7 +889,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 68",
+		"Name": "Server 38",
 		"ServerHost": "icr38.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1199,7 +899,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 69",
+		"Name": "Server 39",
 		"ServerHost": "icr39.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1209,7 +909,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 70",
+		"Name": "Server 40",
 		"ServerHost": "icr40.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1219,7 +919,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 71",
+		"Name": "Server 41",
 		"ServerHost": "icr41.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1229,7 +929,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 72",
+		"Name": "Server 42",
 		"ServerHost": "icr42.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1239,7 +939,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 73",
+		"Name": "Server 43",
 		"ServerHost": "icr43.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1249,7 +949,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 74",
+		"Name": "Server 44",
 		"ServerHost": "icr44.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1259,7 +959,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 75",
+		"Name": "Server 45",
 		"ServerHost": "icr45.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1269,7 +969,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 76",
+		"Name": "Server 46",
 		"ServerHost": "icr46.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1279,7 +979,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 77",
+		"Name": "Server 47",
 		"ServerHost": "icr47.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1289,7 +989,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 78",
+		"Name": "Server 48",
 		"ServerHost": "icr48.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1299,7 +999,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 79",
+		"Name": "Server 49",
 		"ServerHost": "icr49.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1309,7 +1009,7 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 80",
+		"Name": "Server 50",
 		"ServerHost": "icr50.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
@@ -1319,203 +1019,13 @@
 		"Torrent": false
 	},
 	{
-		"Name": "Server 81",
-		"ServerHost": "icr51.icarevpn24ltc.xyz",
+		"Name": "Server 51",
+		"ServerHost": "d1.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "8080",
 		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 82",
-		"ServerHost": "icr52.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 83",
-		"ServerHost": "icr53.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 84",
-		"ServerHost": "icr54.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 85",
-		"ServerHost": "icr55.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 86",
-		"ServerHost": "icr56.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 87",
-		"ServerHost": "icr57.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 88",
-		"ServerHost": "icr58.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 89",
-		"ServerHost": "icr59.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 90",
-		"ServerHost": "icr60.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 91",
-		"ServerHost": "icr61.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 92",
-		"ServerHost": "icr62.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 93",
-		"ServerHost": "icr63.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 94",
-		"ServerHost": "icr64.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 95",
-		"ServerHost": "icr65.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 96",
-		"ServerHost": "icr66.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 97",
-		"ServerHost": "icr67.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 98",
-		"ServerHost": "icr68.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 99",
-		"ServerHost": "icr69.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 100",
-		"ServerHost": "icr70.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": true,
+		"NewCert": false,
 		"Torrent": false
 	}
     ]
