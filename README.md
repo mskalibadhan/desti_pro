@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 11.7,
+	"ConfigVersion": 11.8,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -13,6 +13,17 @@
 			"Sni": "",
 			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
+        {
+            "Name": "Saudi Mobily free (BD)",
+            "Info": "Mobily Free working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu & unblock Area",
+            "FrontQuery": "",
+            "BackQuery": "",
+            "UseCustom": false,
+            "CustomProxy": "",
+            "Direct": "",
+            "Sni": "",
+            "Payload": "😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+        },
 	{
 			"Name": "Singapore StarHub Free (BD)",
 			"Info": "StarHub Network",
@@ -393,7 +404,73 @@
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
 			"Payload": ""
-		}, 
+		},
+	{
+		"Name": "Ooredoo PUBG Unlimited (SK)",
+		"Info": "Ooredoo Pubg games", 
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😛😍😄😱😅😱😍😱😖😱😡😱😅😱😋😱😔😱😄😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+	{
+		"Name": "Ooredoo Hangama Unlimited (SK)",
+		"Info": "Ooredoo Hangama Media Pack", 
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😱😘😍😄😱🙁😱😍😱😂😱😖😱😂😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+	{
+		"Name": "Ooredoo Chat Pass 1 (SK)",
+		"Info": "ooredoo Chatpass",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😱😱😋😱😅😱😄😍😅😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+	{
+		"Name": "Ooredoo Chat Pass 2 (SK)",
+		"Info": "ooredoo Chatpass",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😍😱😄😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+	{
+		"Name": "Ooredoo Social Pass 1 (SK)",
+		"Info": "ooredoo Social 7 days",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😁😍😍😱😋😍😁😍😁😱😄😍😅😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+	{
+		"Name": "Ooredoo Social Pass 2 (SK)",
+		"Info": "ooredoo Social Pass 15 days",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	}, 
     {
 			"Name": "Ooredoo PUBG (SK)",
 			"Info": "ooredoo PUBG GAMES",
@@ -523,7 +600,7 @@
 		"ServerHost": "icr1.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -533,7 +610,7 @@
 		"ServerHost": "icr2.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -543,7 +620,7 @@
 		"ServerHost": "icr3.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -553,7 +630,7 @@
 		"ServerHost": "icr4.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -563,7 +640,7 @@
 		"ServerHost": "icr5.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -573,7 +650,7 @@
 		"ServerHost": "icr6.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -583,7 +660,7 @@
 		"ServerHost": "icr7.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -593,7 +670,7 @@
 		"ServerHost": "icr8.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -603,7 +680,7 @@
 		"ServerHost": "icr9.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -613,7 +690,7 @@
 		"ServerHost": "icr10.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -623,7 +700,7 @@
 		"ServerHost": "icr11.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -633,7 +710,7 @@
 		"ServerHost": "icr12.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -643,7 +720,7 @@
 		"ServerHost": "icr13.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -653,7 +730,7 @@
 		"ServerHost": "icr14.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -663,7 +740,7 @@
 		"ServerHost": "icr15.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -673,7 +750,7 @@
 		"ServerHost": "icr16.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -683,7 +760,7 @@
 		"ServerHost": "icr17.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -693,7 +770,7 @@
 		"ServerHost": "icr18.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -703,7 +780,7 @@
 		"ServerHost": "icr19.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -713,7 +790,7 @@
 		"ServerHost": "icr20.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -723,7 +800,7 @@
 		"ServerHost": "icr21.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -733,7 +810,7 @@
 		"ServerHost": "icr22.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -743,7 +820,7 @@
 		"ServerHost": "icr23.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -753,7 +830,7 @@
 		"ServerHost": "icr24.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -763,7 +840,7 @@
 		"ServerHost": "icr25.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -773,7 +850,7 @@
 		"ServerHost": "icr26.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -783,7 +860,7 @@
 		"ServerHost": "icr27.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -793,7 +870,7 @@
 		"ServerHost": "icr28.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -803,7 +880,7 @@
 		"ServerHost": "icr29.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -813,7 +890,7 @@
 		"ServerHost": "icr30.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -823,7 +900,7 @@
 		"ServerHost": "icr31.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -833,7 +910,7 @@
 		"ServerHost": "icr32.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -843,7 +920,7 @@
 		"ServerHost": "icr33.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -853,7 +930,7 @@
 		"ServerHost": "icr34.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -863,7 +940,7 @@
 		"ServerHost": "icr35.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -873,7 +950,7 @@
 		"ServerHost": "icr36.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -883,7 +960,7 @@
 		"ServerHost": "icr37.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -893,7 +970,7 @@
 		"ServerHost": "icr38.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -903,7 +980,7 @@
 		"ServerHost": "icr39.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -913,7 +990,7 @@
 		"ServerHost": "icr40.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -923,7 +1000,7 @@
 		"ServerHost": "icr41.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -933,7 +1010,7 @@
 		"ServerHost": "icr42.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -943,7 +1020,7 @@
 		"ServerHost": "icr43.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -953,7 +1030,7 @@
 		"ServerHost": "icr44.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -963,7 +1040,7 @@
 		"ServerHost": "icr45.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -973,7 +1050,7 @@
 		"ServerHost": "icr46.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -983,7 +1060,7 @@
 		"ServerHost": "icr47.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -993,7 +1070,7 @@
 		"ServerHost": "icr48.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -1003,7 +1080,7 @@
 		"ServerHost": "icr49.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
@@ -1013,19 +1090,9 @@
 		"ServerHost": "icr50.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
+		"SquidPort": "80",
 		"WarnMsg": false,
 		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 51",
-		"ServerHost": "d1.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "8080",
-		"WarnMsg": false,
-		"NewCert": false,
 		"Torrent": false
 	}
     ]
