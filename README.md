@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 12.2,
+	"ConfigVersion": 12.3,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -25,15 +25,15 @@
 		"Payload": "😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😅😛😁😘😄😁😄😁😄😛😅😡😆😂😅🙁😆😂😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😱😆😱😔😱😡😍😆😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😅😱😄😱😱😱😄😍😅😱😄😍😅😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 	},
 {
-		"Name": "Mobily Free X SA (BD)",
-		"Info": "Mobily Free working Dammam Riyadh Madina Najran Ha'il Alkassim Yanbu & unblock Area",
+		"Name": "Mobily Free X SA (SK)",
+		"Info": "Mobily Free working All Area",
 		"FrontQuery": "",
 		"BackQuery": "",
-		"UseCustom": false,
-		"CustomProxy": "",
+		"UseCustom": true,
+		"CustomProxy": "😱😱😍😆😱😘😱😂😍😅😍😛😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖😆😎😆😁😆😁😆😆",
 		"Direct": "",
-		"Sni": "",
-		"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😁😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖😄😛😁😡😄😆😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😅😡😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😆😱😡😱🙁😱🙁😱😄😱😆😍😁😅🙁😱😖😱😡😱😅😱😋😱😔😍😋😅🙁😱😆😱😡😱😖😅🙁😍😆😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
+		"Sni": "😱😱😍😆😱😘😱😂😍😅😍😛😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
+		"Payload": ""
 	},
         {
             "Name": "Saudi Mobily free (BD)",
@@ -921,206 +921,6 @@
 	{
 		"Name": "Server 30",
 		"ServerHost": "icr30.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 31",
-		"ServerHost": "icr31.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 32",
-		"ServerHost": "icr32.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 33",
-		"ServerHost": "icr33.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 34",
-		"ServerHost": "icr34.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 35",
-		"ServerHost": "icr35.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 36",
-		"ServerHost": "icr36.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 37",
-		"ServerHost": "icr37.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 38",
-		"ServerHost": "icr38.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 39",
-		"ServerHost": "icr39.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 40",
-		"ServerHost": "icr40.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 41",
-		"ServerHost": "icr41.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 42",
-		"ServerHost": "icr42.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 43",
-		"ServerHost": "icr43.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 44",
-		"ServerHost": "icr44.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 45",
-		"ServerHost": "icr45.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 46",
-		"ServerHost": "icr46.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 47",
-		"ServerHost": "icr47.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 48",
-		"ServerHost": "icr48.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 49",
-		"ServerHost": "icr49.icarevpn24ltc.xyz",
-		"OvpnPortTCP": "1194",
-		"OvpnPortSSL": "443",
-		"SquidPort": "80",
-		"WarnMsg": false,
-		"NewCert": true,
-		"Torrent": false
-	},
-	{
-		"Name": "Server 50",
-		"ServerHost": "icr50.icarevpn24ltc.xyz",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
