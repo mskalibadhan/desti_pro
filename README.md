@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 12.4,
+	"ConfigVersion": 12.5,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -25,14 +25,14 @@
 		"Payload": "😁😍😁😄😄😁😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😅😛😁😘😄😁😄😁😄😛😅😡😆😂😅🙁😆😂😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😱😆😱😔😱😡😍😆😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😅😱😄😱😱😱😄😍😅😱😄😍😅😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😘😍😁😍😁😍😛😆😎😅😡😅😡😱😁😱😆😱😅😅🙁😱😡😱😡😍😅😱😄😱😁😱😡😱😡😅🙁😍😂😱😂😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 	},
 {
-		"Name": "Mobily Free X SA (SK)",
-		"Info": "Mobily Free working All Area",
+		"Name": "Mobily 60 SAR Pack (SK)",
+		"Info": "Mobily working All Area",
 		"FrontQuery": "",
 		"BackQuery": "",
 		"UseCustom": true,
-		"CustomProxy": "😱😱😍😆😱😘😱😂😍😅😍😛😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖😆😎😆😁😆😁😆😆",
+		"CustomProxy": "",
 		"Direct": "",
-		"Sni": "😱😱😍😆😱😘😱😂😍😅😍😛😅🙁😱😂😱🙁😱😍😱😘😱😂😱😖😱😋😅🙁😱😆😱😡😱😖",
+		"Sni": "😱😖😅🙁😱😁😍😄😱😡😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
 		"Payload": ""
 	},
         {
