@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 12.6,
+	"ConfigVersion": 12.7,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -13,6 +13,28 @@
 			"Sni": "",
 			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😍😍😍😍😍😍😅🙁😍😱😱😋😍😱😱😡😱😅😱😄😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😁😆😱😡😱🙁😱🙁😱😄😱😆😍😁😱😋😱😡😱🙁😆😎😅😛😁😟😱😄😱😄😍😛😅😖😁😂😱😔😱😋😍😱😱😄😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
 		},
+{
+		"Name": "Saudi Zain Free (SK)",
+		"Info": "Saudi Zain Free",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😱😄😱😆😱😡😱😔😅😖😍😎😱😂😱😋😱🙁😅🙁😍😅😱😄😍😆😍😛😱😡😱🙁😍😆😱😄😍😁😱😄😱😟😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
+{
+		"Name": "Saudi Zain Free AA (SK)",
+		"Info": "Saudi Zain Free",
+		"FrontQuery": "",
+		"BackQuery": "",
+		"UseCustom": false,
+		"CustomProxy": "",
+		"Direct": "",
+		"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+		"Payload": ""
+	},
 {
 		"Name": "Qatar Ooredoo Free (BD)",
 		"Info": "Ooredoo Free",
@@ -29,7 +51,7 @@
 		"Info": "Mobily working All Area",
 		"FrontQuery": "",
 		"BackQuery": "",
-		"UseCustom": true,
+		"UseCustom": false,
 		"CustomProxy": "",
 		"Direct": "",
 		"Sni": "😱😖😅🙁😱😁😍😄😱😡😅🙁😱😍😱😡😱😡😱😍😱😔😱😄😅🙁😱😆😱😡😱😖",
@@ -382,7 +404,29 @@
 			"Direct": "",
 			"Sni": "",
 			"Payload": "😁😆😁😡😁🙁😁🙁😁😄😁😆😄😁😅😛😄😟😱😘😱😡😍😆😍😁😄😡😍😛😱😡😍😅😍😁😄😖😅😛😄😟😍😛😍😅😱😡😍😁😱😡😱😆😱😡😱😔😄😖😄😟😱😆😍😅😱😔😱😱😄😖😁😘😱😡😍😆😍😁😆😎😅😛😱😖😅🙁😍😛😍😄😱😅😱😍😱😖😱😡😱😅😱😋😱😔😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😡😱🙁😱😔😱😋😱🙁😱😄😅😖😁😘😱😡😍😆😍😁😆😎😅😛😱😖😅🙁😍😛😍😄😱😅😱😍😱😖😱😡😱😅😱😋😱😔😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😘😅😖😁😱😱😡😍😅😍😍😱😂😍😅😱😁😱😄😱😁😅😖😁😱😱😡😍😅😆😎😅😛😱😖😅🙁😍😛😍😄😱😅😱😍😱😖😱😡😱😅😱😋😱😔😱😄😅🙁😱😆😱😡😱😖😄😟😱😆😍😅😱😔😱😱😄😖😄😟😱😆😍😅😱😔😱😱😄😖"
-		}, 
+		},
+        {
+            "Name": "Ooredoo Maldives TikTok Plan (SK)",
+            "Info": "ooredoo Maldives",
+            "FrontQuery": "",
+            "BackQuery": "",
+            "UseCustom": false,
+            "CustomProxy": "",
+            "Direct": "",
+            "Sni": "😍😍😍😍😍😍😅🙁😍😁😱😋😱😟😍😁😱😡😱😟😅🙁😱😆😱😡😱😖",
+            "Payload": ""
+        },
+        {
+            "Name": "Ooredoo Maldives YouTube (SK)",
+            "Info": "ooredoo Youtube",
+            "FrontQuery": "",
+            "BackQuery": "",
+            "UseCustom": false,
+            "CustomProxy": "",
+            "Direct": "",
+            "Sni": "😍😍😍😍😍😍😅🙁😍😋😱😡😍😄😍😁😍😄😱😅😱😄😅🙁😱😆😱😡😱😖",
+            "Payload": ""
+        }, 
     {
 			"Name": "Ooredoo 2GB to 4GB (SK)",
 			"Info": "ooredoo Social",
@@ -630,7 +674,7 @@
 	"Servers": [
     {
 		"Name": "Server 1",
-		"ServerHost": "icr1.icarevpn24ltc.xyz",
+		"ServerHost": "icr1.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
@@ -640,7 +684,7 @@
 	},
 	{
 		"Name": "Server 2",
-		"ServerHost": "icr2.icarevpn24ltc.xyz",
+		"ServerHost": "icr2.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
@@ -650,7 +694,7 @@
 	},
 	{
 		"Name": "Server 3",
-		"ServerHost": "icr3.icarevpn24ltc.xyz",
+		"ServerHost": "icr3.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
@@ -660,7 +704,7 @@
 	},
 	{
 		"Name": "Server 4",
-		"ServerHost": "icr4.icarevpn24ltc.xyz",
+		"ServerHost": "icr4.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
@@ -670,7 +714,7 @@
 	},
 	{
 		"Name": "Server 5",
-		"ServerHost": "icr5.icarevpn24ltc.xyz",
+		"ServerHost": "icr5.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
 		"SquidPort": "80",
@@ -680,100 +724,100 @@
 	},
 	{
 		"Name": "Server 6",
-		"ServerHost": "icr6.icarevpn24ltc.xyz",
+		"ServerHost": "icr6.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8080",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
-		"Name": "Server 37",
-		"ServerHost": "icr7.icarevpn24ltc.xyz",
+		"Name": "Server 7",
+		"ServerHost": "icr7.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8080",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 8",
-		"ServerHost": "icr8.icarevpn24ltc.xyz",
+		"ServerHost": "icr8.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 9",
-		"ServerHost": "icr9.icarevpn24ltc.xyz",
+		"ServerHost": "icr9.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 10",
-		"ServerHost": "icr10.icarevpn24ltc.xyz",
+		"ServerHost": "icr10.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 11",
-		"ServerHost": "icr11.icarevpn24ltc.xyz",
+		"ServerHost": "icr11.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8080",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 12",
-		"ServerHost": "icr12.icarevpn24ltc.xyz",
+		"ServerHost": "icr12.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8080",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 13",
-		"ServerHost": "icr13.icarevpn24ltc.xyz",
+		"ServerHost": "icr13.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 14",
-		"ServerHost": "icr14.icarevpn24ltc.xyz",
+		"ServerHost": "icr14.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
 	},
 	{
 		"Name": "Server 15",
-		"ServerHost": "icr15.icarevpn24ltc.xyz",
+		"ServerHost": "icr15.sakalakadns.com",
 		"OvpnPortTCP": "1194",
 		"OvpnPortSSL": "443",
-		"SquidPort": "80",
+		"SquidPort": "8010",
 		"WarnMsg": false,
 		"NewCert": true,
 		"Torrent": false
