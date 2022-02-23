@@ -1,5 +1,5 @@
 {
-	"ConfigVersion": 12.7,
+	"ConfigVersion": 12.8,
 	"ConfigUpdateMsg": "Added Premium Servers",
 	"WarningMsg": "Do not download or streaming.This is for Gaming only. Caught will be ban permanently.",
 	"Networks": [{
@@ -336,7 +336,29 @@
 			"UseCustom": false,
 			"CustomProxy": "",
 			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱🙁😱😂😍😛😱😆😱😘😱😂😍😁😅🙁😱😆😱😡😱😖",
+			"Sni": "😍😆😱😟😍😋😍😛😱😄😅🙁😱😆😱😡😱😖",
+			"Payload": ""
+		}, 
+    {
+			"Name": "Zain VB2 (SK)",
+			"Info": "Zain type VB2 send 959",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😱😔😱😋😱🙁😱😄😅🙁😱😖😱😄",
+			"Payload": ""
+		}, 
+    {
+			"Name": "Zain VB2 (SK)",
+			"Info": "Zain type VB2 send 959",
+			"FrontQuery": "",
+			"BackQuery": "",
+			"UseCustom": false,
+			"CustomProxy": "",
+			"Direct": "",
+			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱😟😍😋😍😛😱😄😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		}, 
     {
@@ -370,17 +392,6 @@
 			"CustomProxy": "",
 			"Direct": "",
 			"Sni": "😍😍😍😍😍😍😅🙁😱🙁😱😄😍😁😱😱😱😔😱😋😍😘😅🙁😱😆😱😡😱😖",
-			"Payload": ""
-		}, 
-    {
-			"Name": "Zain VB2 (SK)",
-			"Info": "Zain type VB2 send 959",
-			"FrontQuery": "",
-			"BackQuery": "",
-			"UseCustom": false,
-			"CustomProxy": "",
-			"Direct": "",
-			"Sni": "😍😍😍😍😍😍😅🙁😍😆😱😟😍😋😍😛😱😄😅🙁😱😆😱😡😱😖",
 			"Payload": ""
 		},
         {
